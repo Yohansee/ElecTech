@@ -1,0 +1,12 @@
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    /* Remove the following two lines */
+    /* position: absolute; */
+    /* bottom: 0; */
+    width: 100%;
+    clear: both; /* Add this line to clear floats */
+    margin-top: 20px; /* Add some space between the content and the footer */
+}
